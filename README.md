@@ -11,7 +11,7 @@ This is a FullStack Record App which check if the worker is active or not althou
  <li>check if the worker is active or not</li>
 
 <h2>Clone the repo...</h2>
- <li></li>
+ <li>https://github.com/chandra827/CRUD_APPLICATION.git</li>
 
  <h2>Frontend Steps</h2>
   <li>cd frontend</li>
